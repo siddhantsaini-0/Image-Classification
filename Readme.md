@@ -27,7 +27,7 @@ Implementation-of-ML-model-for-Image-Classification is a Streamlit app that inte
 1. **Clone the repository**:
    ```bash[
    git clone[https://github.com/siddhantsaini-0/Image-Classification.git]
-   cd Image-Classification]
+   cd Image-Classification
 2. **Create and activate a virtual environment**:
     ```bash
     python -m venv venv
